@@ -18,15 +18,15 @@ Features extracted with Mel-Frequency Cepstral Coefficients(MFCCs), passed to a 
 ## Installation
 
 - Install Librosa
-```http
+```
   !pip install librosa
 ```
 - Install Tensorflow
-```http
+```
   !pip install tensorflow
 ```
 - Install preprocess
-```http
+```
   !pip install preprocess
 ```
 
