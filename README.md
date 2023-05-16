@@ -8,5 +8,9 @@ This video shows experiments on different places on the storage tray along with 
 
 
 
-https://github.com/BeshoAbdo173/Robotic-Scrub-Nurse/assets/83726980/a99cc8b7-f1d7-473f-adc1-433e8f40dfa3
+
+
+
+
+https://github.com/BeshoAbdo173/Robotic-Scrub-Nurse/assets/83726980/04feb968-54e2-488b-837c-e10e90effec8
 
