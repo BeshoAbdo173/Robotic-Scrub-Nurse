@@ -1,0 +1,4 @@
+train: tools-data/images/train/
+val: tools-data/images/validation/
+nc: 4
+names: ['Scalpel', 'Straight Dissection Clamp','Straight Mayo Scissor','Curved Mayo Scissor']

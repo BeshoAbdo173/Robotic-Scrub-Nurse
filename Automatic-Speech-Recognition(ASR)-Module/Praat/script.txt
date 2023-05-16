@@ -1,0 +1,1 @@
+vidFile$ = "D:\8thTerm\Grad II\Model 2\Voice Dataset\audio dataset after\Curved mayo scissor"

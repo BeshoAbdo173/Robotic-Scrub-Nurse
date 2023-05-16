@@ -1,0 +1,3 @@
+used simple sequential RNN model and extracted with MFCCs.
+
+/content/drive/MyDrive/Data/Scalpel/16_2.wav
