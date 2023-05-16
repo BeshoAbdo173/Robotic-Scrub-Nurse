@@ -5,3 +5,8 @@ A robotic scrub nurse has been developed to assist surgeon doctors during surgic
 ## Proposed system
 
 This video shows experiments on different places on the storage tray along with different surgical instruments.
+
+
+
+https://github.com/BeshoAbdo173/Robotic-Scrub-Nurse/assets/83726980/a99cc8b7-f1d7-473f-adc1-433e8f40dfa3
+
